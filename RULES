@@ -1,2 +1,6 @@
 Top rule - first one should be autofilled. This one contains your INSTALLED roblox version - the one downloaded.
 Bottom rule - second one should copy mine. If this doesnt work, replace the V2.568.000 or whatever i put with the current roblox version. Should work with V2.568.000 tho
+
+Replace the underscores here with the version downloaded.
+EXACT:https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV_______
+https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV2.568.000
